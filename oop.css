@@ -1,7 +1,7 @@
 *{
     margin:0;
     padding:0;
-    box-sizeing: border-box;
+  
    
   }
   
@@ -23,9 +23,9 @@
    display:flex;
     justify-content:center;
     align-items:center;
-    box-shadow: 
+  
     
-  padding: 0rem;
+
   }
   
   
@@ -58,7 +58,7 @@
     
   
   .sneaker img{
-    width 80rem;
+ 
     z-index: 2;
     transition: all 0.75s ease-out;
   }
@@ -117,8 +117,7 @@
   }
   
   
-    
-  }
+
   
   .purcahse{
     margin-top:5rem;
@@ -139,8 +138,6 @@
   .info h1{ 
     font-size:2rem;
     transition: all 0.75s ease-out;
-    
-  color: ;
   box-shadow: 2px ; 
     
     
@@ -164,7 +161,6 @@
   top:0;
   left:0;
   right:0;
-  bottom:;
   background-color: red;  
     
     
